@@ -1,4 +1,6 @@
 # Password-Generator
-This is a password generator with click buttons based off of what I think a client would ask
+An application that generates a random password based on user-selected criteria.
+Built with basic html, css, and java.
+This app is design to help create a passwords with a few clicks of a button. 
 
 ![](images/screenshot.png)
